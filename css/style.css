@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+.logo{
+    border-radius: 100%;
+    width: 40px;
+    margin: 2px 5px 0 10px;
+}
+.user-name{
+    color: red;
+    font-family: 'Roboto', sans-serif;
+}
+.user-college{
+    margin-top: 25px;
+}
+
+#testimonials{
+    background-color:#ff4c68;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+.testimonials-image{
+    width: 80%;
+    margin: auto;
+}
+/* main */
+main{
+    min-height:calc(100vh - 42px - 12vh);
+}
+/* about section */
+.logo-text{
+    font-size: 28px;
+    font-weight: 800;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+/* footer */
+footer{
+    color: #fff;
+    padding: 15px 0;
+}
+.footer-links{
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: bold;
+    color: #fff
+}
+.footer-link{
+    text-decoration: none;
+    cursor: pointer;
+    color: #fff;
+    font-weight: 100;
+}
